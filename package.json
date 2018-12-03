@@ -1,0 +1,11 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "My chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "indextest.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
